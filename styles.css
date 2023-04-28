@@ -1,3 +1,5 @@
+
+
 #heading{
      border-left-color: green;
 }
@@ -8,7 +10,6 @@
     padding: 10px;
     border-style: solid;
     border-left-width: 5px;
-    border-color: purple;
     font-size: 20px;
     color: white;
     font-weight: 300;
